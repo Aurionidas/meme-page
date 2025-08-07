@@ -122,8 +122,8 @@ h1{
   box-shadow: 0 0;
 }
 
-.btn-class-name:focus-visible {
-    outline: none !important;
+.btn-class-name {
+    -webkit-tap-highlight-color: transparent;
 }
 
 /* Dropdown From Uiverse.io by 3bdel3ziz-T */ 
