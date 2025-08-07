@@ -122,9 +122,8 @@ h1{
   box-shadow: 0 0;
 }
 
-.back:focus {
+.btn-class-name:focus-visible {
     outline: none;
-    box-shadow: none;
 }
 
 /* Dropdown From Uiverse.io by 3bdel3ziz-T */ 
