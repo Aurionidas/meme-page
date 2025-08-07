@@ -84,6 +84,7 @@ h1{
   border-radius: 100%;
   position: relative;
   transition: .3s;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .btn-class-name .back {
@@ -120,10 +121,6 @@ h1{
 .btn-class-name:active .front {
   transform: translateY(0%);
   box-shadow: 0 0;
-}
-
-.btn-class-name {
-    -webkit-tap-highlight-color: transparent;
 }
 
 /* Dropdown From Uiverse.io by 3bdel3ziz-T */ 
