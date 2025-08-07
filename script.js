@@ -19,8 +19,8 @@ playAudio = function() {
         case "Tortuga":
             audioID = 'tortuga-audio';
             break;
-        case "Perro HP":
-            audioID = 'perro-audio';
+        case "Chit":
+            audioID = 'success-audio';
             break;
         case "Yamete Kudasai":
             audioID = 'yamete-audio';
@@ -61,9 +61,9 @@ function memeImage(selectedValue) {
             src = "media/tortuga-meme.png";
             selectedAudio = "Tortuga";
             break;
-        case "Perro HP":
-            src = "media/perro-meme.png";
-            selectedAudio = "Perro HP";
+        case "Chit":
+            src = "media/chit-meme.png";
+            selectedAudio = "Chit";
             break;
         case "Yamete Kudasai":
             src = "media/yameto-meme.png";
