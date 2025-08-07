@@ -66,7 +66,7 @@ function memeImage(selectedValue) {
             selectedAudio = "Chit";
             break;
         case "Yamete Kudasai":
-            src = "media/yameto-meme.png";
+            src = "media/yamete-meme.png";
             selectedAudio = "Yamete Kudasai";
             break;
         default:
